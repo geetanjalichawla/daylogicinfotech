@@ -6,7 +6,7 @@ const PicSection = () => {
             <div className="col-lg-4 d-none d-lg-block">
                 <img className='w-100' src="https://www.daylogicinfotech.com/assets/images/hero-bg.jpg" alt="" />
             </div>
-            <div className="col-lg-8 col-6 flex-column">
+            <div className="col-lg-8 col flex-column">
                 <h1>Daylogic - A Perfect Blend of Creativity, Credibility and Consistency</h1>
                 <p>Every facet of our marketing system is designed to provide the highest
         standards of
