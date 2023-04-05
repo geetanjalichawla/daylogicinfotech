@@ -6,6 +6,8 @@ function Banner() {
       <Carousel.Item>
         <img
           className="d-block w-100"
+          alt="Third slide"
+
           src="https://ik.imagekit.io/b80sh2n2k/premium_photo-1677872479743-fbba85e09418_ixlib_rb-4.0.3_ixid_MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8_auto_format_fit_crop_w_2070_q_80?updatedAt=1680690196982"
         />
         <Carousel.Caption>
@@ -16,7 +18,8 @@ function Banner() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          
+          alt="Third slide"
+
           src="https://ik.imagekit.io/b80sh2n2k/premium_photo-1677872479743-fbba85e09418_ixlib_rb-4.0.3_ixid_MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8_auto_format_fit_crop_w_2070_q_80?updatedAt=1680690196982"
         />
 
