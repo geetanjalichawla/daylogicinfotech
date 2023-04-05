@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import NavBar from './componets/navbar/NavBar.jsx';
 import Banner from './componets/banner/Banner';
