@@ -1,0 +1,30 @@
+.container-m {
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding:20px;
+}
+
+.card {
+    background-color: #fff;
+    padding: 15px;
+    border: none;
+    height: 250px;
+    margin-top: 10px
+}
+.testimonial{
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.u-color {
+    color: blue
+}
+
+.user-image img {
+    border: 3px solid #00f;
+    padding: 2px
+}

@@ -1,24 +1,26 @@
 import logo from './logo.svg';
 import './App.css';
+import NavBar from './componets/navbar/NavBar.jsx';
+import Banner from './componets/banner/Banner';
+import PicSection from './componets/PicSection/PicSection';
+import Cardsection from './componets/cardSection/Cardsection';
+import Testimonial from './componets/testimonial/testimonial';
+import About from './componets/about/About';
+import Footer from './componets/footer/Footer';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+   <div className='overflow-x-hidden w-100'>
+   <NavBar/>
+    <Banner/>
+    <PicSection/>
+    <Cardsection/>
+    <Testimonial/>
+<About/>
+<Footer/>
+    
+   </div>
   );
 }
 
