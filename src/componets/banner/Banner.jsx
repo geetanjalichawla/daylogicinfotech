@@ -6,7 +6,7 @@ function Banner() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-src='https://ik.imagekit.io/b80sh2n2k/premium_photo-1677872479743-fbba85e09418_ixlib_rb-4.0.3_ixid_MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8_auto_format_fit_crop_w_2070_q_80?updatedAt=1680683357195'          alt="First slide"
+          src="https://ik.imagekit.io/b80sh2n2k/premium_photo-1677872479743-fbba85e09418_ixlib_rb-4.0.3_ixid_MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8_auto_format_fit_crop_w_2070_q_80?updatedAt=1680690196982"
         />
         <Carousel.Caption>
           <h3>First slide label</h3>
@@ -17,7 +17,7 @@ src='https://ik.imagekit.io/b80sh2n2k/premium_photo-1677872479743-fbba85e09418_i
         <img
           className="d-block w-100"
           
-src='https://ik.imagekit.io/b80sh2n2k/premium_photo-1677872479743-fbba85e09418_ixlib_rb-4.0.3_ixid_MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8_auto_format_fit_crop_w_2070_q_80?updatedAt=1680683357195'          alt="Second slide"
+          src="https://ik.imagekit.io/b80sh2n2k/premium_photo-1677872479743-fbba85e09418_ixlib_rb-4.0.3_ixid_MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8_auto_format_fit_crop_w_2070_q_80?updatedAt=1680690196982"
         />
 
         <Carousel.Caption>
@@ -28,7 +28,7 @@ src='https://ik.imagekit.io/b80sh2n2k/premium_photo-1677872479743-fbba85e09418_i
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://ik.imagekit.io/b80sh2n2k/premium_photo-1677872479743-fbba85e09418_ixlib_rb-4.0.3_ixid_MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8_auto_format_fit_crop_w_2070_q_80?updatedAt=1680683357195"
+          src="https://ik.imagekit.io/b80sh2n2k/premium_photo-1677872479743-fbba85e09418_ixlib_rb-4.0.3_ixid_MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8_auto_format_fit_crop_w_2070_q_80?updatedAt=1680690196982"
           alt="Third slide"
         />
 

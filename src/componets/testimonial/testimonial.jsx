@@ -36,7 +36,7 @@ const Testimonial = () => {
                         <div className="user-about"> <span className="font-weight-bold d-block">Mike Vincent</span> <span className="u-color">Designer | Developer</span>
                             <div className="d-flex flex-row mt-1"> <i className="fa fa-star u-color"></i> <i className="fa fa-star u-color"></i> <i className="fa fa-star u-color"></i> <i className="fa fa-star u-color"></i> <i className="fa fa-star-o u-color"></i> </div>
                         </div>
-                        <div className="user-image"> <img src="https://i.imgur.com/At1IG6H.png" className="rounded-circle" width="70" alt =""/> </div>
+                        <div className="user-image"> <img  src="https://i.imgur.com/At1IG6H.png" className="rounded-circle" width="70" alt =""/> </div>
                     </div>
                 </div>
             </div>
